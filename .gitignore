@@ -28,3 +28,7 @@
 *.out
 *.app
 /Test Debug/
+
+
+#Eclipse
+/.settings/
